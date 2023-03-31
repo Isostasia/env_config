@@ -1,3 +1,8 @@
+# After download template...
+  If you're planning to work only in the routes; then, uncomment the .gitignore file
+  
+  Otherwise, you want to improve the sveltekit app, adding plugins and modules; leave     the .gitignore file as it is.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
